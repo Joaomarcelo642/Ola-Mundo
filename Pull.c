@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Conegui dar pull request\n");
+    printf("Consegui dar pull request\n");
     return 0;
 }
